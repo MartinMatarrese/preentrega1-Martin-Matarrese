@@ -9,6 +9,7 @@ export const NavBar = () => {
             <li><a href="#">PANTALONES/SHORTS</a></li>
             <li><a href="#">CAMPERAS</a></li>
             <li><a href="#">BUZOS</a></li>
+            <li><a href="#">SOBRE NOSOTROS</a></li>
             <li><a href="#">CONTACTO</a></li>
            </ul>
            <CartWidget/>
